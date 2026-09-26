@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/sante",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Sentinelle",
+      "hasCanvas": false,
+      "bodyTextLen": 6601,
+      "bodyTextHash": "c640ce129a1d24ad9496442611be7f6890472ccac1499152c6d6a7c889b1d142",
+      "bodyTextPrefix": "Aller au contenu Sentinelle FAITS · PRÉVENTION État des lieux Te",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/sante.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Sentinelle",
+      "hasCanvas": false,
+      "bodyTextLen": 6516,
+      "bodyTextHash": "07f6fb9d32b56822dde45b1079043dfc7853bc5a571b0e3ab94db4e31a99564a",
+      "bodyTextPrefix": "Aller au contenu Sentinelle Écoute anonyme 7j/7 · 8h–2h 0 800 23",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/sante-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/sante.json"
+}

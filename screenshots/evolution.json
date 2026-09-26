@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/evolution",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Sentinelle",
+      "hasCanvas": false,
+      "bodyTextLen": 3343,
+      "bodyTextHash": "b3a865f01e761b758dd685d62c6d2bce50069617cff99cf988a8eb99827c17a4",
+      "bodyTextPrefix": "Aller au contenu Sentinelle FAITS · PRÉVENTION État des lieux Te",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/evolution.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Sentinelle",
+      "hasCanvas": false,
+      "bodyTextLen": 3258,
+      "bodyTextHash": "96f4826377fc08fcc15c08267efdb5a693cd78344f832275f2e65504f9604bb1",
+      "bodyTextPrefix": "Aller au contenu Sentinelle Écoute anonyme 7j/7 · 8h–2h 0 800 23",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/evolution-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/evolution.json"
+}

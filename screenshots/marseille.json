@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/territoires/marseille",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Sentinelle",
+      "hasCanvas": false,
+      "bodyTextLen": 3502,
+      "bodyTextHash": "d6c063be0bcca269261f00c3d8545b2b1763570a686f7519cc44b9e16ff26e3a",
+      "bodyTextPrefix": "Aller au contenu Sentinelle FAITS · PRÉVENTION État des lieux Te",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/marseille.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Sentinelle",
+      "hasCanvas": false,
+      "bodyTextLen": 3417,
+      "bodyTextHash": "caac647939d5b76fd5bc895b4b2cb6f9fa96570e7edb3b24cd8d7f14493db5a5",
+      "bodyTextPrefix": "Aller au contenu Sentinelle Écoute anonyme 7j/7 · 8h–2h 0 800 23",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/marseille-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/marseille.json"
+}

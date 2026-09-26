@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Sentinelle",
+      "hasCanvas": false,
+      "bodyTextLen": 3489,
+      "bodyTextHash": "1071c028c3afd0c64bc710668c3bcbeeb54a86a98c515e9b13808a933183f162",
+      "bodyTextPrefix": "Aller au contenu Sentinelle FAITS · PRÉVENTION État des lieux Te",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Sentinelle",
+      "hasCanvas": false,
+      "bodyTextLen": 3404,
+      "bodyTextHash": "5872887b828747a5df5bf08adda021d487a9bf456d3f7c99e17bc48ed32be594",
+      "bodyTextPrefix": "Aller au contenu Sentinelle Écoute anonyme 7j/7 · 8h–2h 0 800 23",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

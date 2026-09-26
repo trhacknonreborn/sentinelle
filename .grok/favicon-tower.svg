@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Sentinelle">
+  <rect width="32" height="32" rx="7" fill="#0c0c0d"/>
+  <rect x="14" y="4" width="4" height="3.5" rx="0.5" fill="#8a9bb0"/>
+  <path fill="#f1efe8" d="M12 8.2h8l2.6 16.2H9.4z"/>
+  <rect x="14.2" y="12.2" width="3.6" height="5.2" fill="#0c0c0d"/>
+  <rect x="8" y="24.6" width="16" height="3.2" fill="#8b8a84"/>
+</svg>
